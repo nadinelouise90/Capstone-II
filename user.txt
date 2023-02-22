@@ -1,0 +1,3 @@
+admin, adm1n
+nadine, password
+student, pass
